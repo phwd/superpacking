@@ -1,7 +1,7 @@
 /*
  * superpacking.js
  *
- * Frida script to unpack superpack files and save the uncompressed vesion
+ * Frida script to unpack superpack files and save the uncompressed version
  *
  * The purpose of this script is for bug hunting within the scope of facebook.com/whitehat
  * 
