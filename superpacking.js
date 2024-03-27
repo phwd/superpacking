@@ -1,3 +1,15 @@
+/*
+ * superpacking.js
+ *
+ * Frida script to unpack superpack files and save the uncompressed vesion
+ *
+ * The purpose of this script is for bug hunting within the scope of facebook.com/whitehat
+ * 
+ * Copyright (c) 2024 Philippe Harewood, @phwd_, https://philippeharewood.com/
+ * 
+ * Released under MIT License, feel free to fork it, incorporate into other software etc.
+ */
+
 %resume
 
 Java.perform(function() {
